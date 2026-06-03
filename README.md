@@ -4,8 +4,8 @@ Actions.
 
 <a href="https://github.com/arfin03/github-stats-transparen">
 
-![](https://raw.githubusercontent.comrahul-jh/a98/github-stats-transparen/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparen/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/arfin03/github-stats-transparen/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/arfin03/github-stats-transparen/output/generated/languages.svg)
 
 </a>
 
