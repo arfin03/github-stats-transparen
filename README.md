@@ -2,10 +2,10 @@
 > Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
+<a href="https://github.com/arfin03/github-stats-transparen">
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.comrahul-jh/a98/github-stats-transparen/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparen/output/generated/languages.svg)
 
 </a>
 
@@ -29,7 +29,7 @@ anyone may be able to see the name of one or more private repositories.
    the access token when it is generated – if you lose it, you will have to
    regenerate the token.
 
-2. Click [here](https://github.com/rahul-jha98/github-stats-transparent/fork) to create a
+2. Click [here](https://github.com/arfin03/github-stats-transparent/fork) to create a
    fork of this repository
 
 3. If this is the README of your fork, click [this
